@@ -16,7 +16,7 @@ int S_MIN = 0;
 int S_MAX = 256;
 int V_MIN = 0;
 int V_MAX = 256;
-//default capture width and height  
+//default capture width and height
 const int FRAME_WIDTH = 640;
 
 const int FRAME_HEIGHT = 480;
